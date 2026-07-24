@@ -1,0 +1,17 @@
+*{
+  background-color: lightslategrey;
+}
+
+button{
+  padding: 8px 7px;
+  border-radius: 8px;
+  background-color: rgb(218, 89, 89);
+  border: 2.2px solid black;
+}
+
+.container{
+  text-align: center;
+  align-items: center;
+  gap: 40px;
+  display: flex;
+}
